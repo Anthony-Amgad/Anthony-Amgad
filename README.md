@@ -1,10 +1,10 @@
 
-<h1 align="center">Hi 👋, I'm Anthony 😀</h1>  
-<h3 align="left">👾 A passionate Senior-2 Computer Engineering student based in Cairo, Egypt, with a fervent interest in cutting-edge technologies and their applications.</h3>  
+<h1 align="center">Hi 👋, I'm Anthony 👾</h1>  
+<h3 align="left">🪢 A passionate Machine Learning Engineer based in Cairo, Egypt, with a fervent interest in cutting-edge technologies and their applications.</h3>  
   
 
   
-- 🎓 I’m currently pursuing **a Bachelor's degree in Computer Engineering at Ain Shams University, with a dual degree from UEL UK. Throughout my academic journey, I've delved deep into various aspects of computer science, from machine learning and deep learning to big data and distributed computing.**  
+- 🎓 I currently have **a Bachelor's degree in Computer Engineering at Ain Shams University, with a dual degree from UEL UK. Throughout my academic journey, I've delved deep into various aspects of computer science, from machine learning and deep learning to big data and distributed computing.**  
 
 - 💡 Passion projects drive me forward. **From developing a Football Players Tracking system using computer vision and deep learning to crafting a Secure Encrypted Outlook App for enhanced email privacy**
 
